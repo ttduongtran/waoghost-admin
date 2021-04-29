@@ -1,1 +1,1 @@
-# waoghost-gatsby
+# waoghost-admin
