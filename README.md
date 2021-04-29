@@ -1,1 +1,0 @@
-# waoghost-gatsby
